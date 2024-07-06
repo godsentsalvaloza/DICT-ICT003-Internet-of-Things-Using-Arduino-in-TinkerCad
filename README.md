@@ -6,6 +6,12 @@ My project output for DICT-ICT003 Internet of Things Using Arduino in TinkerCad
 
 Internet of Things course from Department of Information Communication Technology (DICT) - Philippines
 
+
+
+![Certificate](https://raw.githubusercontent.com/godsentsalvaloza/DICT-ICT003-Internet-of-Things-Using-Arduino-in-TinkerCad/main/Certificate.png)
+
+
+
 ## Project output
 
 ### Basic Battery Switch LED
@@ -32,7 +38,5 @@ https://www.tinkercad.com/things/2yuCQ6X9Unq-relayswitch?sharecode=MbpRhLNcT_nb9
 ### LCD Arduino Display
 https://www.tinkercad.com/things/gk6Za6dFqx4-lcd-arduino-display?sharecode=clh7WHxek0j-Q-JyM9uCuWQ3Gi8pAUMckHLjAqHwWPE
 
-#
 
-![Certificate](https://raw.githubusercontent.com/godsentsalvaloza/DICT-ICT003-Internet-of-Things-Using-Arduino-in-TinkerCad/main/Certificate.png)
 
